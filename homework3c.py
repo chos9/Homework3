@@ -29,7 +29,6 @@ def pivot(m):
 	n = len(m)
 	i = [[float(i == j) for i in xrange(n)] for j in xrange(n)]
 	for j in xrange(n):
-		for k in range()
 		row = max(xrange(j, n), key=lambda i: m[i][j])
 		if j != row:
 			i[j], i[row] = i[row], i[j]
