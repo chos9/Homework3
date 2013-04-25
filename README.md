@@ -2,7 +2,7 @@ Seongjin Cho
 ============
 
 I had to edit this file after the midnight since the changes I made on online site
-has rolled back after I uploaded files through command prompt....
+had rolled back after I uploaded files through command prompt....
 
 Homework 3, number 1
 ====================
