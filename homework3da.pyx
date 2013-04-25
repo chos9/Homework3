@@ -8,6 +8,5 @@
 
 def multiply(a,b):
 	"""	Multiply matrices """
-	cdef int i, j, c, d
 	tb = zip(*b)
 	return [[sum(c*d for c,d in zip(i,j)) for j in tb] for i in a]
